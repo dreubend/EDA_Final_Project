@@ -8,6 +8,7 @@ https://github.com/dreubend/EDA_Final_Project/raw/main/distance_traveling.xlsx
 
 
 Here is where I found the original data.
+
 •	The movement of the poles: 
 o	Speed of movement 1900 to 2020
 https://en.wikipedia.org/wiki/North_magnetic_pole#/media/File:North_Magnetic_Pole_Speed.svg
